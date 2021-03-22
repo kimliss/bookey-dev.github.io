@@ -1,37 +1,85 @@
-## Welcome to GitHub Pages
+## ashboard
 
-You can use the [editor on GitHub](https://github.com/bookey-dev/dashboard/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+### 看板
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- 规划
+  - [v1.8](https://github.com/bookey-dev/bookey.requirement/projects/13)
+  - [v1.7](https://github.com/bookey-dev/bookey.requirement/projects/12)
+- 进度
+  - [task-ui](https://github.com/orgs/bookey-dev/projects/17)
+  - [task-api](https://github.com/orgs/bookey-dev/projects/16)
+  - [task-ios](https://github.com/orgs/bookey-dev/projects/15)
+  - [task-android](https://github.com/orgs/bookey-dev/projects/14)
 
-### Markdown
+### 问题
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- project
+  - [project-ui](https://github.com/bookey-dev/bookey.ui/issues)
+  - [project-api](https://github.com/bookey-dev/bookey.api/issues)
+  - [project-ios](https://github.com/bookey-dev/bookey.ios/issues)
+  - [project-android](https://github.com/bookey-dev/bookey.android/issues)
+- BUG
+  - [bug-api](https://github.com/bookey-dev/bookey.requirement/labels/Bug%3A%20API) 
+  - [bug-ios](https://github.com/bookey-dev/bookey.requirement/labels/Bug%3A%20IOS)
+  - [bug-android](https://github.com/bookey-dev/bookey.requirement/labels/Bug%3A%20Android)
+- Crash  
+  - [crash-android](https://github.com/bookey-dev/bookey.requirement/issues/124)
+  - [crash-ios](https://github.com/bookey-dev/bookey.requirement/issues/146)
+- Version - [规范](docs/process-specification.md#版本发布)
+  - [log-ios](https://github.com/bookey-dev/bookey.requirement/labels/Releases%3A%20IOS)
+  - [log-android](https://github.com/bookey-dev/bookey.requirement/labels/Releases%3A%20Android)
 
-```markdown
-Syntax highlighted code block
+## 文档
 
-# Header 1
-## Header 2
-### Header 3
+### API
 
-- Bulleted
-- List
+- [user](https://dev.bookey.app:8081/swagger-ui.html)
+- [book](https://dev.bookey.app:8082/swagger-ui.html)
+- [third party](https://dev.bookey.app:8083/swagger-ui.html)
 
-1. Numbered
-2. List
+### 规则
 
-**Bold** and _Italic_ and `Code` text
+- [Analytics](https://github.com/bookey-dev/bookey.docs/wiki/Analytics)
+- [DeepLink](https://github.com/bookey-dev/bookey.docs/wiki/DeepLink)
+- [Pinpoint](https://github.com/bookey-dev/bookey.docs/wiki/Pinpoint)
 
-[Link](url) and ![Image](src)
-```
+### 链接
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- IOS
+  - [测试版](https://www.pgyer.com/o9So) - `0910`
+  - [TestFlight](https://apps.apple.com/cn/app/testflight/id899247664)
+  - [App Store](https://apps.apple.com/cn/app/id1490069864)
+- Android
+  - [测试版](https://www.pgyer.com/C5re) - `2021`
+  - [Internaltest](https://play.google.com/apps/internaltest/4700196513230198982)
+  - [Google Play](https://play.google.com/store/apps/details?id=app.bookey)
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bookey-dev/dashboard/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## 模板
 
-### Support or Contact
+### [需求模板](https://github.com/bookey-dev/bookey.requirement/issues/new/choose)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- 命名：`需求概述`
+- 需求标签：`需求`、`BUG`
+- 里程碑（milestone）：`2021-03`、`2021-04`...
+- 内容模板（复制粘贴）：
+
+  ```md
+  ## 需求
+
+  ### 描述
+
+  ???
+
+  ### 备注
+
+  ???
+
+  ## 任务
+
+  - [ ] UI
+  - [ ] API
+  - [ ] IOS
+  - [ ] Android
+
+  ```
