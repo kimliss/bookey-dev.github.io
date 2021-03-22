@@ -1,4 +1,4 @@
-## ashboard
+## Dashboard
 
 ### 看板
 
