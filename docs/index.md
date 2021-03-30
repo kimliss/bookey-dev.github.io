@@ -1,3 +1,5 @@
+# Bookey
+
 ## 常规
 
 ### 看板
@@ -11,13 +13,13 @@
   - [task-ios](https://github.com/orgs/bookey-dev/projects/15)
   - [task-android](https://github.com/orgs/bookey-dev/projects/14)
 
-### 问题
+### 任务
 
-- project
-  - [project-ui](https://github.com/bookey-dev/bookey.ui/issues)
-  - [project-api](https://github.com/bookey-dev/bookey.api/issues)
-  - [project-ios](https://github.com/bookey-dev/bookey.ios/issues)
-  - [project-android](https://github.com/bookey-dev/bookey.android/issues)
+- Project
+  - [ui](https://github.com/bookey-dev/bookey.ui/issues)
+  - [api](https://github.com/bookey-dev/bookey.api/issues)
+  - [ios](https://github.com/bookey-dev/bookey.ios/issues)
+  - [android](https://github.com/bookey-dev/bookey.android/issues)
 - BUG
   - [bug-api](https://github.com/bookey-dev/bookey.prd/labels/Bug%3A%20API) 
   - [bug-ios](https://github.com/bookey-dev/bookey.prd/labels/Bug%3A%20IOS)
@@ -54,7 +56,6 @@
   - [测试版](https://www.pgyer.com/C5re) - `2021`
   - [Internaltest](https://play.google.com/apps/internaltest/4700196513230198982)
   - [Google Play](https://play.google.com/store/apps/details?id=app.bookey)
-
 
 ## 模板
 
