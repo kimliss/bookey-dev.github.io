@@ -34,17 +34,16 @@
 
 ## 文档
 
-### API
+### 说明
 
-- [user](https://dev.bookey.app:8081/swagger-ui.html)
-- [book](https://dev.bookey.app:8082/swagger-ui.html)
-- [third party](https://dev.bookey.app:8083/swagger-ui.html)
+- [跳转链接 DeepLink](https://github.com/bookey-dev/bookey.docs/wiki/DeepLink)
+- [事件埋点 Event Tracking](https://github.com/bookey-dev/bookey.docs/wiki/Event-Tracking)
+- [订阅 Subscribe](https://github.com/bookey-dev/bookey.docs/wiki/Subscribe)
+- [通知模板 Notify Temples](https://github.com/bookey-dev/bookey.docs/wiki/Notify-Temples)
 
-### 规则
+旧
 
 - [Analytics](https://github.com/bookey-dev/bookey.docs/wiki/Analytics)
-- [DeepLink](https://github.com/bookey-dev/bookey.docs/wiki/DeepLink)
-- [Pinpoint](https://github.com/bookey-dev/bookey.docs/wiki/Pinpoint)
 
 ### 链接
 
@@ -56,6 +55,12 @@
   - [测试版](https://www.pgyer.com/C5re) - `2021`
   - [Internaltest](https://play.google.com/apps/internaltest/4700196513230198982)
   - [Google Play](https://play.google.com/store/apps/details?id=app.bookey)
+
+### API
+
+- [user](https://dev.bookey.app:8081/swagger-ui.html)
+- [book](https://dev.bookey.app:8082/swagger-ui.html)
+- [third party](https://dev.bookey.app:8083/swagger-ui.html)
 
 ## 模板
 
