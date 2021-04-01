@@ -16,10 +16,10 @@
 ### 任务
 
 - Project
-  - [ui](https://github.com/bookey-dev/bookey.ui/issues)
-  - [api](https://github.com/bookey-dev/bookey.api/issues)
-  - [ios](https://github.com/bookey-dev/bookey.ios/issues)
-  - [android](https://github.com/bookey-dev/bookey.android/issues)
+  - [issues-ui](https://github.com/bookey-dev/bookey.ui/issues)
+  - [issues-api](https://github.com/bookey-dev/bookey.api/issues)
+  - [issues-ios](https://github.com/bookey-dev/bookey.ios/issues)
+  - [issues-android](https://github.com/bookey-dev/bookey.android/issues)
 - BUG
   - [bug-api](https://github.com/bookey-dev/bookey.prd/labels/Bug%3A%20API) 
   - [bug-ios](https://github.com/bookey-dev/bookey.prd/labels/Bug%3A%20IOS)
@@ -36,10 +36,10 @@
 
 ### 说明
 
-- [跳转链接 DeepLink](https://github.com/bookey-dev/bookey.docs/wiki/DeepLink)
 - [事件埋点 Event Tracking](https://github.com/bookey-dev/bookey.docs/wiki/Event-Tracking)
 - [订阅 Subscribe](https://github.com/bookey-dev/bookey.docs/wiki/Subscribe)
-- [通知模板 Notify Temples](https://github.com/bookey-dev/bookey.docs/wiki/Notify-Temples)
+- [通知 Notify](https://github.com/bookey-dev/bookey.docs/wiki/Notify)
+- [跳转链接 DeepLink](https://github.com/bookey-dev/bookey.docs/wiki/DeepLink)
 
 旧
 
