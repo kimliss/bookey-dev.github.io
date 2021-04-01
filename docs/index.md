@@ -18,7 +18,7 @@
 
 ### 任务
 
-Project
+Issues
 
 - [issues-ui](https://github.com/bookey-dev/bookey.ui/issues)
 - [issues-api](https://github.com/bookey-dev/bookey.api/issues)
