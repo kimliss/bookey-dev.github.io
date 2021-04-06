@@ -1,5 +1,7 @@
 # Bookey
 
+> [常见文档 - Wiki](https://github.com/bookey-dev/bookey.docs/wiki)
+
 ## 常规
 
 ### 看板
@@ -27,30 +29,20 @@ Issues
 
 BUG
 
-- [bug-api](https://github.com/bookey-dev/bookey.prd/labels/Bug%3A%20API) 
-- [bug-ios](https://github.com/bookey-dev/bookey.prd/labels/Bug%3A%20IOS)
-- [bug-android](https://github.com/bookey-dev/bookey.prd/labels/Bug%3A%20Android)
+- [bug-api](https://github.com/bookey-dev/bookey.prd/issues?q=is%3Aopen+label%3Abug+label%3A%22platform%3A+api%22)
+- [bug-ios](https://github.com/bookey-dev/bookey.prd/issues?q=is%3Aopen+label%3Abug+label%3A%22platform%3A+ios%22)
+- [bug-android](https://github.com/bookey-dev/bookey.prd/issues?q=is%3Aopen+label%3Abug+label%3A%22platform%3A+android%22)
 
 Crash  
 
 - [crash-android](https://github.com/bookey-dev/bookey.prd/issues/124)
 - [crash-ios](https://github.com/bookey-dev/bookey.prd/issues/146)
 
-Version - [规范](docs/process-specification.md#版本发布)
+Releases - [发版规范](docs/process-specification.md#版本发布)
 
-- [log-ios](https://github.com/bookey-dev/bookey.prd/labels/Releases%3A%20IOS)
-- [log-google](https://github.com/bookey-dev/bookey.prd/labels/Releases%3A%20Google)
-- [log-huawei](https://github.com/bookey-dev/bookey.prd/labels/Releases%3A%20Huawei)
-
-## 文档
-
-### [Wiki](https://github.com/bookey-dev/bookey.docs/wiki)
-
-- 订阅
-- 事件
-- 深度链接
-
-...
+- [log-ios](https://github.com/bookey-dev/bookey.prd/labels/releases%3A%20ios)
+- [log-google](https://github.com/bookey-dev/bookey.prd/labels/releases%3A%20google)
+- [log-huawei](https://github.com/bookey-dev/bookey.prd/labels/releases%3A%20huawei)
 
 ## 链接
 
