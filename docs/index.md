@@ -4,46 +4,42 @@
 
 ## 常规
 
-### 看板
+### [需求](https://github.com/bookey-dev/bookey.prd/issues) - [新建](https://github.com/bookey-dev/bookey.prd/issues/new)
 
-规划
+版本
 
 - [v1.9](https://github.com/bookey-dev/bookey.prd/projects/20)
 - [v1.8](https://github.com/bookey-dev/bookey.prd/projects/13)
 - [v1.7](https://github.com/bookey-dev/bookey.prd/projects/12)
 
-进度
-
-- [task-ui](https://github.com/orgs/bookey-dev/projects/17)
-- [task-api](https://github.com/orgs/bookey-dev/projects/16)
-- [task-ios](https://github.com/orgs/bookey-dev/projects/15)
-- [task-android](https://github.com/orgs/bookey-dev/projects/14)
-
 ### 任务
 
-Issues
+#### UI
 
-- [issues-ui](https://github.com/bookey-dev/bookey.ui/issues)
-- [issues-api](https://github.com/bookey-dev/bookey.api/issues)
-- [issues-ios](https://github.com/bookey-dev/bookey.ios/issues)
-- [issues-android](https://github.com/bookey-dev/bookey.android/issues)
+- [任务看板](https://github.com/orgs/bookey-dev/projects/17)
+- [任务列表](https://github.com/bookey-dev/bookey.ui/issues) - [新建](https://github.com/bookey-dev/bookey.ui/issues/new?body=bookey-dev/bookey.prd%23)
 
-BUG
+#### IOS
 
-- [bug-api](https://github.com/bookey-dev/bookey.prd/issues?q=is%3Aopen+label%3Abug+label%3A%22platform%3A+api%22)
-- [bug-ios](https://github.com/bookey-dev/bookey.prd/issues?q=is%3Aopen+label%3Abug+label%3A%22platform%3A+ios%22)
-- [bug-android](https://github.com/bookey-dev/bookey.prd/issues?q=is%3Aopen+label%3Abug+label%3A%22platform%3A+android%22)
+- [任务看板](https://github.com/orgs/bookey-dev/projects/15)
+- [任务列表](https://github.com/bookey-dev/bookey.ios/issues) - [新建](https://github.com/bookey-dev/bookey.ios/issues/new?body=bookey-dev/bookey.prd%23)
+- [BUG 列表](https://github.com/bookey-dev/bookey.prd/issues?q=is%3Aopen+label%3Abug+label%3A%22platform%3A+ios%22) - [新建](https://github.com/bookey-dev/bookey.bug/issues/new?labels=bug,platform:%20ios)
+- [发版记录](https://github.com/bookey-dev/bookey.prd/labels/releases%3A%20ios)
 
-Crash  
+#### Android
 
-- [crash-android](https://github.com/bookey-dev/bookey.prd/issues/124)
-- [crash-ios](https://github.com/bookey-dev/bookey.prd/issues/146)
+- [任务看板](https://github.com/orgs/bookey-dev/projects/14)
+- [任务列表](https://github.com/bookey-dev/bookey.android/issues) - [新建](https://github.com/bookey-dev/bookey.android/issues/new?body=bookey-dev/bookey.prd%23)
+- [BUG 列表](https://github.com/bookey-dev/bookey.prd/issues?q=is%3Aopen+label%3Abug+label%3A%22platform%3A+android%22) - [新建](https://github.com/bookey-dev/bookey.bug/issues/new?labels=bug,platform:%20android)
+- [发版记录](https://github.com/bookey-dev/bookey.prd/labels/releases%3A%20android)
 
-Releases - [发版规范](docs/process-specification.md#版本发布)
+#### API
 
-- [log-ios](https://github.com/bookey-dev/bookey.prd/labels/releases%3A%20ios)
-- [log-google](https://github.com/bookey-dev/bookey.prd/labels/releases%3A%20google)
-- [log-huawei](https://github.com/bookey-dev/bookey.prd/labels/releases%3A%20huawei)
+- [任务看板](https://github.com/orgs/bookey-dev/projects/16)
+- [任务列表](https://github.com/bookey-dev/bookey.ios/issues) - [新建](https://github.com/bookey-dev/bookey.api/issues/new?body=bookey-dev/bookey.prd%23)
+- [BUG 列表](https://github.com/bookey-dev/bookey.prd/issues?q=is%3Aopen+label%3Abug+label%3A%22platform%3A+api%22) - [新建](https://github.com/bookey-dev/bookey.bug/issues/new?labels=bug,platform:%20api)
+
+> [发版规范](docs/process-specification.md#版本发布)
 
 ## 链接
 
