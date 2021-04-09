@@ -18,19 +18,15 @@
 
 ### UI
 
->[点击创建新任务](https://github.com/bookey-dev/bookey.ui/issues/new?body=bookey-dev/bookey.prd%23)
-
 [任务看板](https://github.com/orgs/bookey-dev/projects/17)
 
-[任务列表](https://github.com/bookey-dev/bookey.ui/issues)
+[任务列表](https://github.com/bookey-dev/bookey.ui/issues) --- [点击创建新任务](https://github.com/bookey-dev/bookey.ui/issues/new?body=bookey-dev/bookey.prd%23)
 
 ### IOS
 
->[点击创建新任务](https://github.com/bookey-dev/bookey.ios/issues/new?body=bookey-dev/bookey.prd%23)
-
 [任务看板](https://github.com/orgs/bookey-dev/projects/15)
 
-[任务列表](https://github.com/bookey-dev/bookey.ios/issues)
+[任务列表](https://github.com/bookey-dev/bookey.ios/issues) --- [点击创建新任务](https://github.com/bookey-dev/bookey.ios/issues/new?body=bookey-dev/bookey.prd%23)
 
 [BUG 列表](https://github.com/bookey-dev/bookey.bug/issues?q=is%3Aopen+label%3Abug+label%3A%22platform%3A+ios%22) --- [点击创建 BUG](https://github.com/bookey-dev/bookey.bug/issues/new?labels=bug,platform:%20ios)
 
@@ -38,11 +34,9 @@
 
 ### Android
 
->[点击创建新任务](https://github.com/bookey-dev/bookey.android/issues/new?body=bookey-dev/bookey.prd%23)
-
 [任务看板](https://github.com/orgs/bookey-dev/projects/14)
 
-[任务列表](https://github.com/bookey-dev/bookey.android/issues)
+[任务列表](https://github.com/bookey-dev/bookey.android/issues) --- [点击创建新任务](https://github.com/bookey-dev/bookey.android/issues/new?body=bookey-dev/bookey.prd%23)
 
 [BUG 列表](https://github.com/bookey-dev/bookey.bug/issues?q=is%3Aopen+label%3Abug+label%3A%22platform%3A+android%22) --- [点击创建 BUG](https://github.com/bookey-dev/bookey.bug/issues/new?labels=bug,platform:%20android)
 
@@ -57,7 +51,7 @@
 
 [任务列表](https://github.com/bookey-dev/bookey.ios/issues) --- [点击创建新任务](https://github.com/bookey-dev/bookey.api/issues/new?body=bookey-dev/bookey.prd%23)
 
-[BUG 列表](https://github.com/bookey-dev/bookey.bug/issues?q=is%3Aopen+label%3Abug+label%3A%22platform%3A+api%22) --- [点击创建](https://github.com/bookey-dev/bookey.bug/issues/new?labels=bug,platform:%20api)
+[BUG 列表](https://github.com/bookey-dev/bookey.bug/issues?q=is%3Aopen+label%3Abug+label%3A%22platform%3A+api%22) --- [点击创建 BUG](https://github.com/bookey-dev/bookey.bug/issues/new?labels=bug,platform:%20api)
 
 ---
 
