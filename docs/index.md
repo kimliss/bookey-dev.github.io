@@ -23,21 +23,21 @@
 
 - [任务看板](https://github.com/orgs/bookey-dev/projects/15)
 - [任务列表](https://github.com/bookey-dev/bookey.ios/issues) - [新建](https://github.com/bookey-dev/bookey.ios/issues/new?body=bookey-dev/bookey.prd%23)
-- [BUG 列表](https://github.com/bookey-dev/bookey.prd/issues?q=is%3Aopen+label%3Abug+label%3A%22platform%3A+ios%22) - [新建](https://github.com/bookey-dev/bookey.bug/issues/new?labels=bug,platform:%20ios)
+- [BUG 列表](https://github.com/bookey-dev/bookey.bug/issues?q=is%3Aopen+label%3Abug+label%3A%22platform%3A+ios%22) - [新建](https://github.com/bookey-dev/bookey.bug/issues/new?labels=bug,platform:%20ios)
 - [发版记录](https://github.com/bookey-dev/bookey.prd/labels/releases%3A%20ios)
 
 #### Android
 
 - [任务看板](https://github.com/orgs/bookey-dev/projects/14)
 - [任务列表](https://github.com/bookey-dev/bookey.android/issues) - [新建](https://github.com/bookey-dev/bookey.android/issues/new?body=bookey-dev/bookey.prd%23)
-- [BUG 列表](https://github.com/bookey-dev/bookey.prd/issues?q=is%3Aopen+label%3Abug+label%3A%22platform%3A+android%22) - [新建](https://github.com/bookey-dev/bookey.bug/issues/new?labels=bug,platform:%20android)
+- [BUG 列表](https://github.com/bookey-dev/bookey.bug/issues?q=is%3Aopen+label%3Abug+label%3A%22platform%3A+android%22) - [新建](https://github.com/bookey-dev/bookey.bug/issues/new?labels=bug,platform:%20android)
 - [发版记录](https://github.com/bookey-dev/bookey.prd/labels/releases%3A%20android)
 
 #### API
 
 - [任务看板](https://github.com/orgs/bookey-dev/projects/16)
 - [任务列表](https://github.com/bookey-dev/bookey.ios/issues) - [新建](https://github.com/bookey-dev/bookey.api/issues/new?body=bookey-dev/bookey.prd%23)
-- [BUG 列表](https://github.com/bookey-dev/bookey.prd/issues?q=is%3Aopen+label%3Abug+label%3A%22platform%3A+api%22) - [新建](https://github.com/bookey-dev/bookey.bug/issues/new?labels=bug,platform:%20api)
+- [BUG 列表](https://github.com/bookey-dev/bookey.bug/issues?q=is%3Aopen+label%3Abug+label%3A%22platform%3A+api%22) - [新建](https://github.com/bookey-dev/bookey.bug/issues/new?labels=bug,platform:%20api)
 
 > [发版规范](docs/process-specification.md#版本发布)
 
