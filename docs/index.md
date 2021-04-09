@@ -14,32 +14,54 @@
 
 ### 任务
 
-#### UI
+#### UI - [看板](https://github.com/orgs/bookey-dev/projects/17)
 
-- [任务看板](https://github.com/orgs/bookey-dev/projects/17)
-- [任务列表](https://github.com/bookey-dev/bookey.ui/issues) - [新建](https://github.com/bookey-dev/bookey.ui/issues/new?body=bookey-dev/bookey.prd%23)
+任务 - [点击创建](https://github.com/bookey-dev/bookey.ui/issues/new?body=bookey-dev/bookey.prd%23)
 
-#### IOS
+- [列表](https://github.com/bookey-dev/bookey.ui/issues)
 
-- [任务看板](https://github.com/orgs/bookey-dev/projects/15)
-- [任务列表](https://github.com/bookey-dev/bookey.ios/issues) - [新建](https://github.com/bookey-dev/bookey.ios/issues/new?body=bookey-dev/bookey.prd%23)
-- [BUG 列表](https://github.com/bookey-dev/bookey.bug/issues?q=is%3Aopen+label%3Abug+label%3A%22platform%3A+ios%22) - [新建](https://github.com/bookey-dev/bookey.bug/issues/new?labels=bug,platform:%20ios)
-- [发版记录](https://github.com/bookey-dev/bookey.bug/labels/releases%3A%20ios) - [新建](https://github.com/bookey-dev/bookey.bug/issues/new?labels=releases%3A+ios)
+#### IOS - [看板](https://github.com/orgs/bookey-dev/projects/15)
 
-#### Android
+任务 - [点击创建](https://github.com/bookey-dev/bookey.ios/issues/new?body=bookey-dev/bookey.prd%23)
 
-- [任务看板](https://github.com/orgs/bookey-dev/projects/14)
-- [任务列表](https://github.com/bookey-dev/bookey.android/issues) - [新建](https://github.com/bookey-dev/bookey.android/issues/new?body=bookey-dev/bookey.prd%23)
-- [BUG 列表](https://github.com/bookey-dev/bookey.bug/issues?q=is%3Aopen+label%3Abug+label%3A%22platform%3A+android%22) - [新建](https://github.com/bookey-dev/bookey.bug/issues/new?labels=bug,platform:%20android)
-- 发版记录
-  - [google](https://github.com/bookey-dev/bookey.bug/labels/releases%3A%20google) - [新建](https://github.com/bookey-dev/bookey.bug/issues/new?labels=releases%3A+google)
-  - [huawei](https://github.com/bookey-dev/bookey.bug/labels/releases%3A%20huawei) - [新建](https://github.com/bookey-dev/bookey.bug/issues/new?labels=releases%3A+huawei)
+- [列表](https://github.com/bookey-dev/bookey.ios/issues)
 
-#### API
+BUG - [点击创建](https://github.com/bookey-dev/bookey.bug/issues/new?labels=bug,platform:%20ios)
 
-- [任务看板](https://github.com/orgs/bookey-dev/projects/16)
-- [任务列表](https://github.com/bookey-dev/bookey.ios/issues) - [新建](https://github.com/bookey-dev/bookey.api/issues/new?body=bookey-dev/bookey.prd%23)
-- [BUG 列表](https://github.com/bookey-dev/bookey.bug/issues?q=is%3Aopen+label%3Abug+label%3A%22platform%3A+api%22) - [新建](https://github.com/bookey-dev/bookey.bug/issues/new?labels=bug,platform:%20api)
+- [列表](https://github.com/bookey-dev/bookey.bug/issues?q=is%3Aopen+label%3Abug+label%3A%22platform%3A+ios%22)
+
+发版 - [点击创建](https://github.com/bookey-dev/bookey.bug/issues/new?labels=releases%3A+ios)
+
+- [记录](https://github.com/bookey-dev/bookey.bug/labels/releases%3A%20ios)
+
+#### Android - [看板](https://github.com/orgs/bookey-dev/projects/14)
+
+任务 - [点击创建](https://github.com/bookey-dev/bookey.android/issues/new?body=bookey-dev/bookey.prd%23)
+
+- [列表](https://github.com/bookey-dev/bookey.android/issues)
+
+BUG - [点击创建](https://github.com/bookey-dev/bookey.bug/issues/new?labels=bug,platform:%20android)
+
+- [列表](https://github.com/bookey-dev/bookey.bug/issues?q=is%3Aopen+label%3Abug+label%3A%22platform%3A+android%22)
+
+发版
+
+- google - [点击创建](https://github.com/bookey-dev/bookey.bug/issues/new?labels=releases%3A+google)
+  - [记录](https://github.com/bookey-dev/bookey.bug/labels/releases%3A%20google)
+- huawei - [点击创建](https://github.com/bookey-dev/bookey.bug/issues/new?labels=releases%3A+huawei)
+  - [记录](https://github.com/bookey-dev/bookey.bug/labels/releases%3A%20huawei)
+
+#### API - [看板](https://github.com/orgs/bookey-dev/projects/16)
+
+任务 - [点击创建](https://github.com/bookey-dev/bookey.api/issues/new?body=bookey-dev/bookey.prd%23)
+
+- [列表](https://github.com/bookey-dev/bookey.ios/issues)
+
+BUG - [点击创建](https://github.com/bookey-dev/bookey.bug/issues/new?labels=bug,platform:%20api)
+
+- [列表](https://github.com/bookey-dev/bookey.bug/issues?q=is%3Aopen+label%3Abug+label%3A%22platform%3A+api%22)
+
+---
 
 > [发版规范](docs/process-specification.md#版本发布)
 
