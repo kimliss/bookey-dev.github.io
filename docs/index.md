@@ -16,7 +16,7 @@
 
 ## 待办
 
-[TODO 列表](https://github.com/bookey-dev/bookey.todo/issues) --- [点击创建新 TODO](https://github.com/bookey-dev/bookey.prd/issues/new)
+[TODO 列表](https://github.com/bookey-dev/bookey.todo/issues) --- [点击创建新 TODO](https://github.com/bookey-dev/bookey.todo/issues/new)
 
 ### BUG
 
