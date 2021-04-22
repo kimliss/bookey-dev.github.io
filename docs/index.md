@@ -1,10 +1,8 @@
 # Bookey
 
-## 文档
-
 [文档 - Wiki](https://github.com/bookey-dev/bookey.docs/wiki)
 
-## 需求
+## 需求管理
 
 [需求列表](https://github.com/bookey-dev/bookey.prd/issues) --- [点击创建新需求](https://github.com/bookey-dev/bookey.prd/issues/new?body=%23%23%20%E9%9C%80%E6%B1%82%0A%0A%23%23%23%20%E6%8F%8F%E8%BF%B0%0A%0A%3F%3F%3F%0A%0A%23%23%23%20%E5%A4%87%E6%B3%A8%0A%0A%3F%3F%3F%0A)
 
@@ -15,42 +13,36 @@
 - [v1.8](https://github.com/bookey-dev/bookey.prd/projects/13)
 - [v1.7](https://github.com/bookey-dev/bookey.prd/projects/12)
 
-## 待办
+## 任务管理
 
-[TODO 列表](https://github.com/bookey-dev/bookey.todo/issues) --- [点击创建新 TODO](https://github.com/bookey-dev/bookey.todo/issues/new)
+[UI 任务](https://github.com/bookey-dev/bookey.ui/issues) --- [看板](https://github.com/orgs/bookey-dev/projects/17) --- [点击创建新任务](https://github.com/bookey-dev/bookey.ui/issues/new?body=bookey-dev/bookey.prd%23)
 
-### BUG
+[IOS 任务](https://github.com/bookey-dev/bookey.ios/issues) --- [看板](https://github.com/orgs/bookey-dev/projects/15) --- [点击创建新任务](https://github.com/bookey-dev/bookey.ios/issues/new?body=bookey-dev/bookey.prd%23)
 
-- [IOS 列表](https://github.com/bookey-dev/bookey.todo/issues?q=is%3Aopen+is%3Aissue+label%3A%22platform%3A+ios%22) --- [点击创建 IOS BUG](https://github.com/bookey-dev/bookey.todo/issues/new?labels=bug,platform:%20ios)
-- [Android 列表](https://github.com/bookey-dev/bookey.todo/issues?q=is%3Aopen+is%3Aissue+label%3A%22platform%3A+android%22) --- [点击创建 Android BUG](https://github.com/bookey-dev/bookey.todo/issues/new?labels=bug,platform:%20android)
-- [API 列表](https://github.com/bookey-dev/bookey.todo/issues?q=is%3Aopen+is%3Aissue+label%3A%22platform%3A+api%22)--- [点击创建 API BUG](https://github.com/bookey-dev/bookey.todo/issues/new?labels=bug,platform:%20api)
+[Android 任务](https://github.com/bookey-dev/bookey.android/issues) --- [看板](https://github.com/orgs/bookey-dev/projects/14) --- [点击创建新任务](https://github.com/bookey-dev/bookey.android/issues/new?body=bookey-dev/bookey.prd%23)
 
-### 发版
+[API 任务](https://github.com/bookey-dev/bookey.api/issues) --- [看板](https://github.com/orgs/bookey-dev/projects/16) --- [点击创建新任务](https://github.com/bookey-dev/bookey.api/issues/new?body=bookey-dev/bookey.prd%23)
 
-- [IOS 发版记录](https://github.com/bookey-dev/bookey.todo/labels/releases%3A%20ios) - [点击创建版本](https://github.com/bookey-dev/bookey.todo/issues/new?labels=releases%3A+ios)
-- Android 发版记录
-  - [Google play](https://github.com/bookey-dev/bookey.todo/labels/releases%3A%20google) --- [点击创建版本](https://github.com/bookey-dev/bookey.todo/issues/new?labels=releases%3A+google)
-  - [Huawei store](https://github.com/bookey-dev/bookey.todo/labels/releases%3A%20huawei) --- [点击创建版本](https://github.com/bookey-dev/bookey.todo/issues/new?labels=releases%3A+huawei)
+## BUG 管理
 
-> [发版规范](docs/process-specification.md#版本发布)
+[BUG 列表](https://github.com/bookey-dev/bookey.bug/issues) --- [点击创建新 Bug](https://github.com/bookey-dev/bookey.bug/issues/new)
 
-## 团队
+### 按平台
 
-### UI
+- [IOS 列表](https://github.com/bookey-dev/bookey.bug/issues?q=is%3Aopen+is%3Aissue+label%3A%22platform%3A+ios%22) --- [点击创建 IOS Bug](https://github.com/bookey-dev/bookey.bug/issues/new?labels=bug,platform:%20ios)
+- [Android 列表](https://github.com/bookey-dev/bookey.bug/issues?q=is%3Aopen+is%3Aissue+label%3A%22platform%3A+android%22) --- [点击创建 Android Bug](https://github.com/bookey-dev/bookey.bug/issues/new?labels=bug,platform:%20android)
+- [API 列表](https://github.com/bookey-dev/bookey.bug/issues?q=is%3Aopen+is%3Aissue+label%3A%22platform%3A+api%22)--- [点击创建 API Bug](https://github.com/bookey-dev/bookey.bug/issues/new?labels=bug,platform:%20api)
 
-[UI 任务列表](https://github.com/bookey-dev/bookey.ui/issues) --- [看板](https://github.com/orgs/bookey-dev/projects/17) --- [点击创建新任务](https://github.com/bookey-dev/bookey.ui/issues/new?body=bookey-dev/bookey.prd%23)
+## 版本管理
 
-### IOS
+### 发布记录
 
-[IOS 任务列表](https://github.com/bookey-dev/bookey.ios/issues) --- [看板](https://github.com/orgs/bookey-dev/projects/15) --- [点击创建新任务](https://github.com/bookey-dev/bookey.ios/issues/new?body=bookey-dev/bookey.prd%23)
+[IOS 发版记录](https://github.com/bookey-dev/bookey.bug/labels/releases%3A%20ios) - [点击创建版本](https://github.com/bookey-dev/bookey.todo/issues/new?labels=releases%3A+ios)
 
-### Android
+Android 发版记录
 
-[Android 任务列表](https://github.com/bookey-dev/bookey.android/issues) --- [看板](https://github.com/orgs/bookey-dev/projects/14) --- [点击创建新任务](https://github.com/bookey-dev/bookey.android/issues/new?body=bookey-dev/bookey.prd%23)
-
-### API
-
-[API 任务列表](https://github.com/bookey-dev/bookey.api/issues) --- [看板](https://github.com/orgs/bookey-dev/projects/16) --- [点击创建新任务](https://github.com/bookey-dev/bookey.api/issues/new?body=bookey-dev/bookey.prd%23)
+- [Google play](https://github.com/bookey-dev/bookey.bug/labels/releases%3A%20google) --- [点击创建版本](https://github.com/bookey-dev/bookey.todo/issues/new?labels=releases%3A+google)
+- [Huawei store](https://github.com/bookey-dev/bookey.bug/labels/releases%3A%20huawei) --- [点击创建版本](https://github.com/bookey-dev/bookey.todo/issues/new?labels=releases%3A+huawei)
 
 ## 链接
 
