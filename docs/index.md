@@ -2,18 +2,20 @@
 
 [文档 - Wiki](https://github.com/bookey-dev/bookey.docs/wiki)
 
-## 需求管理
+## DashBoard
+
+### 需求管理
 
 [需求列表](https://github.com/bookey-dev/bookey.prd/issues) --- [点击创建新需求](https://github.com/bookey-dev/bookey.prd/issues/new?body=%23%23%20%E9%9C%80%E6%B1%82%0A%0A%23%23%23%20%E6%8F%8F%E8%BF%B0%0A%0A%3F%3F%3F%0A%0A%23%23%23%20%E5%A4%87%E6%B3%A8%0A%0A%3F%3F%3F%0A)
 
-### 按版本
+按版本
 
 - [v1.10](https://github.com/bookey-dev/bookey.prd/projects/24)
 - [v1.9](https://github.com/bookey-dev/bookey.prd/projects/20)
 - [v1.8](https://github.com/bookey-dev/bookey.prd/projects/13)
 - [v1.7](https://github.com/bookey-dev/bookey.prd/projects/12)
 
-## 任务管理
+### 任务管理
 
 [UI 任务](https://github.com/bookey-dev/bookey.ui/issues) --- [看板](https://github.com/orgs/bookey-dev/projects/17) --- [点击创建新任务](https://github.com/bookey-dev/bookey.ui/issues/new?body=bookey-dev/bookey.prd%23)
 
@@ -23,19 +25,17 @@
 
 [API 任务](https://github.com/bookey-dev/bookey.api/issues) --- [看板](https://github.com/orgs/bookey-dev/projects/16) --- [点击创建新任务](https://github.com/bookey-dev/bookey.api/issues/new?body=bookey-dev/bookey.prd%23)
 
-## BUG 管理
+### BUG 管理
 
 [BUG 列表](https://github.com/bookey-dev/bookey.bug/issues) --- [点击创建新 Bug](https://github.com/bookey-dev/bookey.bug/issues/new)
 
-### 按平台
+按平台
 
 - [IOS 列表](https://github.com/bookey-dev/bookey.bug/issues?q=is%3Aopen+is%3Aissue+label%3A%22platform%3A+ios%22) --- [点击创建 IOS Bug](https://github.com/bookey-dev/bookey.bug/issues/new?labels=bug,platform:%20ios)
 - [Android 列表](https://github.com/bookey-dev/bookey.bug/issues?q=is%3Aopen+is%3Aissue+label%3A%22platform%3A+android%22) --- [点击创建 Android Bug](https://github.com/bookey-dev/bookey.bug/issues/new?labels=bug,platform:%20android)
 - [API 列表](https://github.com/bookey-dev/bookey.bug/issues?q=is%3Aopen+is%3Aissue+label%3A%22platform%3A+api%22)--- [点击创建 API Bug](https://github.com/bookey-dev/bookey.bug/issues/new?labels=bug,platform:%20api)
 
-## 版本管理
-
-### 发布记录
+### 发版管理
 
 [IOS 发版记录](https://github.com/bookey-dev/bookey.bug/labels/releases%3A%20ios) - [点击创建版本](https://github.com/bookey-dev/bookey.todo/issues/new?labels=releases%3A+ios)
 
