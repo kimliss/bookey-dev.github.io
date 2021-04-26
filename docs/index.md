@@ -15,13 +15,10 @@
 
 ### 任务管理
 
-[UI 任务](https://github.com/bookey-dev/bookey.ui/issues) --- [看板](https://github.com/orgs/bookey-dev/projects/17) --- [点击创建新任务](https://github.com/bookey-dev/bookey.ui/issues/new?body=bookey-dev/bookey.prd%23)
-
-[IOS 任务](https://github.com/bookey-dev/bookey.ios/issues) --- [看板](https://github.com/orgs/bookey-dev/projects/15) --- [点击创建新任务](https://github.com/bookey-dev/bookey.ios/issues/new?body=bookey-dev/bookey.prd%23)
-
-[Android 任务](https://github.com/bookey-dev/bookey.android/issues) --- [看板](https://github.com/orgs/bookey-dev/projects/14) --- [点击创建新任务](https://github.com/bookey-dev/bookey.android/issues/new?body=bookey-dev/bookey.prd%23)
-
-[API 任务](https://github.com/bookey-dev/bookey.api/issues) --- [看板](https://github.com/orgs/bookey-dev/projects/16) --- [点击创建新任务](https://github.com/bookey-dev/bookey.api/issues/new?body=bookey-dev/bookey.prd%23)
+[UI 任务看板](https://github.com/orgs/bookey-dev/projects/17)
+[IOS 任务看板](https://github.com/orgs/bookey-dev/projects/15)
+[Android 任务看板](https://github.com/orgs/bookey-dev/projects/14)
+[API 任务看板](https://github.com/orgs/bookey-dev/projects/16)
 
 ### BUG 管理
 
