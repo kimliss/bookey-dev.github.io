@@ -33,14 +33,20 @@
 - [Android 列表](https://github.com/bookey-dev/bookey.bug/issues?q=is%3Aopen+is%3Aissue+label%3A%22platform%3A+android%22) --- [点击创建 Android Bug](https://github.com/bookey-dev/bookey.bug/issues/new?labels=bug,platform:%20android&body=%23%23%20%E6%8F%8F%E8%BF%B0%0A%0A%23%23%23%20%E6%9C%BA%E5%9E%8B%0A%0A%EF%BC%9F%0A%0A%23%23%23%20%E6%AD%A5%E9%AA%A4%0A%0A%3F%0A%0A%23%23%23%20%E7%BB%93%E6%9E%9C%0A%0A%3F%0A%0A%23%23%23%20%E6%9C%9F%E6%9C%9B%0A%0A%3F%0A%0A%23%23%20%E5%A4%87%E6%B3%A8%0A%0A%3F%0A)
 - [API 列表](https://github.com/bookey-dev/bookey.bug/issues?q=is%3Aopen+is%3Aissue+label%3A%22platform%3A+api%22)--- [点击创建 API Bug](https://github.com/bookey-dev/bookey.bug/issues/new?labels=bug,platform:%20api&body=%23%23%20%E6%8F%8F%E8%BF%B0%0A%0A%23%23%23%20%E6%AD%A5%E9%AA%A4%0A%0A%3F%0A%0A%23%23%23%20%E7%BB%93%E6%9E%9C%0A%0A%3F%0A%0A%23%23%23%20%E6%9C%9F%E6%9C%9B%0A%0A%3F%0A%0A%23%23%20%E5%A4%87%E6%B3%A8%0A%0A%3F%0A)
 
-### 发版管理
+### 版本管理
 
-[IOS 发版记录](https://github.com/bookey-dev/bookey.prd/issues?q=label%3A"releases%3A+ios"+) - [点击创建版本](https://github.com/bookey-dev/bookey.prd/issues/new?labels=releases%3A+ios&title=v1.x.x&body=%23%23%20Date%3A%20yyyyMMdd%0A%0A%23%23%23%20New%20features%0A%0A-%20%0A%0A%23%23%23%20Fixes%0A%0A-%20%0A%0A%23%23%23%20Improvements%0A%0A-%20%20)
+计划
 
-Android 发版记录
+- [IOS 发版计划](https://github.com/bookey-dev/bookey.prd/projects/31)
+- [Android 发版计划](https://github.com/bookey-dev/bookey.prd/projects/32)
 
-- [Google play](https://github.com/bookey-dev/bookey.prd/issues?q=label%3A"releases%3A+google"+) --- [点击创建版本](https://github.com/bookey-dev/bookey.prd/issues/new?labels=releases%3A+google&title=v1.x.x&body=%23%23%20Date%3A%20yyyyMMdd%0A%0A%23%23%23%20New%20features%0A%0A-%20%0A%0A%23%23%23%20Fixes%0A%0A-%20%0A%0A%23%23%23%20Improvements%0A%0A-%20%20)
-- [Huawei store](https://github.com/bookey-dev/bookey.prd/issues?q=label%3A"releases%3A+huawei"+) --- [点击创建版本](https://github.com/bookey-dev/bookey.prd/issues/new?labels=releases%3A+huawei&title=v1.x.x&body=%23%23%20Date%3A%20yyyyMMdd%0A%0A%23%23%23%20New%20features%0A%0A-%20%0A%0A%23%23%23%20Fixes%0A%0A-%20%0A%0A%23%23%23%20Improvements%0A%0A-%20%20)
+记录
+
+- [IOS 发版记录](https://github.com/bookey-dev/bookey.prd/issues?q=label%3A"releases%3A+ios"+) - [点击创建 IOS 版本](https://github.com/bookey-dev/bookey.prd/issues/new?labels=releases%3A+ios&title=v1.x.x&body=%23%23%20Date%3A%20yyyyMMdd%0A%0A%23%23%23%20New%20features%0A%0A-%20%0A%0A%23%23%23%20Fixes%0A%0A-%20%0A%0A%23%23%23%20Improvements%0A%0A-%20%20)
+
+- Android 发版记录
+  - [Google play](https://github.com/bookey-dev/bookey.prd/issues?q=label%3A"releases%3A+google"+) --- [点击创建 Google 版本](https://github.com/bookey-dev/bookey.prd/issues/new?labels=releases%3A+google&title=v1.x.x&body=%23%23%20Date%3A%20yyyyMMdd%0A%0A%23%23%23%20New%20features%0A%0A-%20%0A%0A%23%23%23%20Fixes%0A%0A-%20%0A%0A%23%23%23%20Improvements%0A%0A-%20%20)
+  - [Huawei store](https://github.com/bookey-dev/bookey.prd/issues?q=label%3A"releases%3A+huawei"+) --- [点击创建 Huawei 版本](https://github.com/bookey-dev/bookey.prd/issues/new?labels=releases%3A+huawei&title=v1.x.x&body=%23%23%20Date%3A%20yyyyMMdd%0A%0A%23%23%23%20New%20features%0A%0A-%20%0A%0A%23%23%23%20Fixes%0A%0A-%20%0A%0A%23%23%23%20Improvements%0A%0A-%20%20)
 
 ## 链接
 
