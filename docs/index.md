@@ -66,14 +66,12 @@ Android
 
 UI
 
-- [蓝湖 - ios](https://lanhuapp.com/web/#/item/project/stage?pid=0fdacf8e-d9a5-4e4d-8bf2-dc690406acce)
-- [蓝湖 - android](https://lanhuapp.com/web/#/item/project/stage?pid=651f1fa5-26f3-46ef-90e0-3b53a9c7d811)
+- [蓝湖 - ios](https://lanhuapp.com/web/#/item/project/stage?pid=462d690a-837c-414f-9495-282024ca3c01)
+- [蓝湖 - android](https://lanhuapp.com/web/#/item/project/stage?pid=8ea76ba6-7dd7-4287-b686-bd9d13f444c4)
 
 API
 
-- [user](https://dev.bookey.app:8081/swagger-ui.html)
-- [book](https://dev.bookey.app:8082/swagger-ui.html)
-- [third party](https://dev.bookey.app:8083/swagger-ui.html)
+- [文档](https://dev.bookey.app:8000/doc.html)
 
 ## 模板
 
