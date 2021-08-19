@@ -73,25 +73,3 @@ UI
 API
 
 - [文档](https://dev.bookey.app:8000/doc.html)
-
-## 模板
-
-### [需求模板](https://github.com/bookey-dev/bookey.prd/issues/new/choose)
-
-- 命名：`需求概述`
-- 需求标签：`需求`、`BUG`
-- 里程碑（milestone）：`2021-03`、`2021-04`...
-- 内容模板（复制粘贴）：
-
-  ```md
-  ## 需求
-
-  ### 描述
-
-  ???
-
-  ### 备注
-
-  ???
-
-  ```
