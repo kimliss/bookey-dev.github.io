@@ -1,3 +1,3 @@
 # Dashboard
 
-Bookey 的开发博客
+Bookey 仪表盘
