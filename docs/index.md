@@ -1,8 +1,6 @@
-# Bookey
+# DashBoard
 
-## DashBoard
-
-### 需求管理
+## 需求管理
 
 [需求列表](https://github.com/bookey-dev/bookey.prd/issues) --- [Wiki 文档](https://github.com/bookey-dev/bookey.prd/wiki)
 
@@ -17,17 +15,17 @@
 - [v1.8](https://github.com/bookey-dev/bookey.prd/projects/13)
 - [v1.7](https://github.com/bookey-dev/bookey.prd/projects/12)
 
-### 任务管理
+## 任务管理
 
-[UI 任务看板](https://github.com/orgs/bookey-dev/projects/17)
+[UI 任务](https://github.com/orgs/bookey-dev/projects/17)
 
-[IOS 任务看板](https://github.com/orgs/bookey-dev/projects/15)
+[IOS 任务](https://github.com/orgs/bookey-dev/projects/15)
 
-[Android 任务看板](https://github.com/orgs/bookey-dev/projects/14)
+[Android 任务](https://github.com/orgs/bookey-dev/projects/14)
 
-[API 任务看板](https://github.com/orgs/bookey-dev/projects/16)
+[API 任务](https://github.com/orgs/bookey-dev/projects/16)
 
-### BUG 管理
+## BUG 管理
 
 [BUG 列表](https://github.com/bookey-dev/bookey.bug/issues)
 
@@ -37,7 +35,7 @@
 - [Android 列表](https://github.com/bookey-dev/bookey.bug/issues?q=is%3Aopen+is%3Aissue+label%3A%22platform%3A+android%22)
 - [API 列表](https://github.com/bookey-dev/bookey.bug/issues?q=is%3Aopen+is%3Aissue+label%3A%22platform%3A+api%22)
 
-### 版本管理
+## 版本管理
 
 计划
 
