@@ -6,8 +6,9 @@
 
 按版本
 
-- [v1.14](https://github.com/bookey-dev/bookey.prd/projects/36)
-- [v1.13](https://github.com/bookey-dev/bookey.prd/projects/35)
+- [v1.15](https://github.com/bookey-dev/bookey.prd/issues?q=is%3Aopen+is%3Aissue+label%3Av1.15)
+- [v1.14](https://github.com/bookey-dev/bookey.prd/issues?q=is%3Aopen+is%3Aissue+label%3Av1.14)
+- [v1.13](https://github.com/bookey-dev/bookey.prd/issues?q=is%3Aopen+is%3Aissue+label%3Av1.13)
 - [v1.12](https://github.com/bookey-dev/bookey.prd/projects/34)
 - [v1.11](https://github.com/bookey-dev/bookey.prd/projects/33)
 - [v1.10](https://github.com/bookey-dev/bookey.prd/projects/24)
