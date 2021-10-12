@@ -30,15 +30,15 @@
 
 [公测 BUG 列表](https://github.com/bookey-dev/bookey.bug/issues)
 
-- [IOS 列表](https://github.com/bookey-dev/bookey.bug/issues?q=is%3Aopen+is%3Aissue+label%3A%22platform%3A+ios%22)
-- [Android 列表](https://github.com/bookey-dev/bookey.bug/issues?q=is%3Aopen+is%3Aissue+label%3A%22platform%3A+android%22)
-- [Service 列表](https://github.com/bookey-dev/bookey.bug/issues?q=is%3Aopen+is%3Aissue+label%3A%22platform%3A+service%22)
+- [IOS](https://github.com/bookey-dev/bookey.bug/issues?q=is%3Aopen+is%3Aissue+label%3A%22platform%3A+ios%22)
+- [Android](https://github.com/bookey-dev/bookey.bug/issues?q=is%3Aopen+is%3Aissue+label%3A%22platform%3A+android%22)
+- [Service](https://github.com/bookey-dev/bookey.bug/issues?q=is%3Aopen+is%3Aissue+label%3A%22platform%3A+service%22)
 
 [内测 BUG 列表](https://github.com/bookey-dev/bookey.prd/issues?q=is%3Aopen+is%3Aissue+label%3Abug)
 
-- [IOS 列表](https://github.com/bookey-dev/bookey.prd/issues?q=is%3Aopen+is%3Aissue+label%3Abug%2C%22task%3A+ios%22)
-- [Android 列表](https://github.com/bookey-dev/bookey.prd/issues?q=is%3Aopen+is%3Aissue+label%3Abug%2C%22task%3A+android%22)
-- [Service 列表](https://github.com/bookey-dev/bookey.prd/issues?q=is%3Aopen+is%3Aissue+label%3Abug%2C%22task%3A+service%22)
+- [IOS](https://github.com/bookey-dev/bookey.prd/issues?q=is%3Aopen+is%3Aissue+label%3Abug%2C%22task%3A+ios%22)
+- [Android](https://github.com/bookey-dev/bookey.prd/issues?q=is%3Aopen+is%3Aissue+label%3Abug%2C%22task%3A+android%22)
+- [Service](https://github.com/bookey-dev/bookey.prd/issues?q=is%3Aopen+is%3Aissue+label%3Abug%2C%22task%3A+service%22)
 
 ## 版本管理
 
