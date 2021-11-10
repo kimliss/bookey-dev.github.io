@@ -25,7 +25,7 @@
 
 [Android 任务](https://github.com/orgs/bookey-dev/projects/14)
 
-[API 任务](https://github.com/orgs/bookey-dev/projects/16)
+[Service 任务](https://github.com/orgs/bookey-dev/projects/16)
 
 ## BUG 管理
 
