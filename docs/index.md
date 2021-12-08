@@ -4,19 +4,6 @@
 
 [需求列表](https://github.com/bookey-dev/bookey.prd/issues?q=is%3Aopen+is%3Aissue+-label%3Abug) --- [Wiki 文档](https://github.com/bookey-dev/bookey.prd/wiki)
 
-按版本
-
-- [v1.16](https://github.com/bookey-dev/bookey.prd/issues?q=is%3Aopen+is%3Aissue+label%3Av1.16)
-- [v1.15](https://github.com/bookey-dev/bookey.prd/issues?q=is%3Aopen+is%3Aissue+label%3Av1.15)
-- [v1.14](https://github.com/bookey-dev/bookey.prd/issues?q=is%3Aopen+is%3Aissue+label%3Av1.14)
-- [v1.13](https://github.com/bookey-dev/bookey.prd/issues?q=is%3Aopen+is%3Aissue+label%3Av1.13)
-- [v1.12](https://github.com/bookey-dev/bookey.prd/projects/34)
-- [v1.11](https://github.com/bookey-dev/bookey.prd/projects/33)
-- [v1.10](https://github.com/bookey-dev/bookey.prd/projects/24)
-- [v1.9](https://github.com/bookey-dev/bookey.prd/projects/20)
-- [v1.8](https://github.com/bookey-dev/bookey.prd/projects/13)
-- [v1.7](https://github.com/bookey-dev/bookey.prd/projects/12)
-
 ## 任务管理
 
 [UI 任务](https://github.com/orgs/bookey-dev/projects/17)
@@ -42,11 +29,6 @@
 - [Service](https://github.com/bookey-dev/bookey.prd/issues?q=is%3Aopen+is%3Aissue+label%3Abug%2C%22task%3A+service%22)
 
 ## 版本管理
-
-计划
-
-- [IOS 发版计划](https://github.com/bookey-dev/bookey.prd/projects/31)
-- [Android 发版计划](https://github.com/bookey-dev/bookey.prd/projects/32)
 
 记录
 
