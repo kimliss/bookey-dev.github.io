@@ -2,7 +2,7 @@
 
 ## 需求管理
 
-[需求列表](https://github.com/bookey-dev/bookey.prd/issues?q=is%3Aopen+is%3Aissue+-label%3Abug) --- [Wiki 文档](https://github.com/bookey-dev/bookey.prd/wiki)
+[需求列表](https://github.com/bookey-dev/bookey.prd) --- [Wiki 文档](https://github.com/bookey-dev/bookey.prd/wiki)
 
 ## 任务管理
 
