@@ -9,7 +9,7 @@
 
 ### 面板
 
-- [UI](https://github.com/orgs/bookey-dev/projects/25/views/4)
+- [UI](https://github.com/orgs/bookey-dev/projects/25/views/8)
 - [iOS](https://github.com/orgs/bookey-dev/projects/25/views/5)
 - [Android](https://github.com/orgs/bookey-dev/projects/25/views/6)
 - [Server](https://github.com/orgs/bookey-dev/projects/25/views/7)
