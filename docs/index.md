@@ -7,7 +7,7 @@
 - [需求](https://github.com/bookey-dev/bookey.prd) 
 - [Wiki 文档](https://github.com/bookey-dev/bookey.prd/wiki)
 
-### 面板
+### 看板
 
 - [UI](https://github.com/orgs/bookey-dev/projects/25/views/8)
 - [iOS](https://github.com/orgs/bookey-dev/projects/25/views/5)
@@ -43,7 +43,7 @@
 ### API
 
 - [文档](https://dev.bookey.app:8080/doc.html)
-- 
+
 ### 应用下载
 
 **IOS**
