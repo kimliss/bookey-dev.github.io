@@ -1,18 +1,29 @@
 # DashBoard
 
-## 需求管理
+## 常用链接
 
-[需求列表](https://github.com/bookey-dev/bookey.prd) --- [Wiki 文档](https://github.com/bookey-dev/bookey.prd/wiki)
+[需求](https://github.com/bookey-dev/bookey.prd) --- [Wiki 文档](https://github.com/bookey-dev/bookey.prd/wiki)
+
+## 状态面板
+
+[UI](https://github.com/orgs/bookey-dev/projects/25/views/4)
+
+[iOS](https://github.com/orgs/bookey-dev/projects/25/views/5)
+
+[Android](https://github.com/orgs/bookey-dev/projects/25/views/6)
+
+[Server](https://github.com/orgs/bookey-dev/projects/25/views/7)
+
 
 ## 任务管理
 
-[UI 任务](https://github.com/orgs/bookey-dev/projects/17)
+[UI](https://github.com/orgs/bookey-dev/projects/17)
 
-[IOS 任务](https://github.com/orgs/bookey-dev/projects/15)
+[IOS](https://github.com/orgs/bookey-dev/projects/15)
 
-[Android 任务](https://github.com/orgs/bookey-dev/projects/14)
+[Android](https://github.com/orgs/bookey-dev/projects/14)
 
-[Service 任务](https://github.com/orgs/bookey-dev/projects/16)
+[Service](https://github.com/orgs/bookey-dev/projects/16)
 
 ## BUG 管理
 
