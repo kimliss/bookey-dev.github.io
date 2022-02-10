@@ -14,13 +14,6 @@
 - [Android](https://github.com/orgs/bookey-dev/projects/25/views/6)
 - [Server](https://github.com/orgs/bookey-dev/projects/25/views/7)
 
-### 任务
-
-- [UI](https://github.com/orgs/bookey-dev/projects/17)
-- [IOS](https://github.com/orgs/bookey-dev/projects/15)
-- [Android](https://github.com/orgs/bookey-dev/projects/14)
-- [Service](https://github.com/orgs/bookey-dev/projects/16)
-
 ### BUG
 
 [公测 BUG 列表](https://github.com/bookey-dev/bookey.bug/issues)
